@@ -1,6 +1,2 @@
-#EXTINF:1, Fast X
-https://cdn031.sh-content.com/hls2/01/00703/3nvd081j2ab5_n/index-v1-a1.m3u8?t=Vnl8cxmqj8qoCVxvh_0ZKYF7FHfPx2PGkiIbfRFiUig&s=1685003970&e=129600&f=3517302&srv=STOPR005&i=0.0&sp=500&p1=STOPR005&p2=STOPR005
-#EXTINF:1, Tid Noy
-https://be6721.rcr72.waw04.cdn112.com/hls2/01/03887/w02ddfhda5wr_h/index-v1-a1.m3u8?t=Iq3EMl2NjpO6vNENjF_scQ67YSe1UJNaHvYalcWGNwY&s=1685283301&e=43200&f=19436119&srv=12&asn=7713&sp=2000
-#EXTINF:1, Tid noy2
-https://be6721.rcr72.waw04.cdn112.com/hls2/01/03887/w02ddfhda5wr_n/index-v1-a1.m3u8?t=fh8-SpHPcDudTXARNUR7eQLEvj5c-lknVefRKs6Hxq8&s=1685284562&e=43200&f=19436119&srv=12&asn=7713&sp=2000
+#EXTINF:1, pubg
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1686515993/ei/udyFZJ-pMbnZ4-EP0paPgAw/ip/180.249.155.166/id/smGEgSADLls.1/source/yt_live_broadcast/requiressl/yes/tx/24691567/txs/24691565%2C24691566%2C24691567%2C24691568/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOKgG13edhVrYoMomGHmPaqvsGgWorWqr0WLzV0hnnG8AiBvNkND0A_vNjdRjy7QptVNH05aO5uKRlcqupkXg8PU2Q%3D%3D/file/index.m3u8
