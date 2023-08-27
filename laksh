@@ -1,16 +1,2 @@
 #EXTINF:1, EPS 8
-https://be4242.rcr52.ams03.cdn112.com/hls2/01/04170/rdhrqf418kkl_x/index-v1-a1.m3u8?t=hadTnWTPgiLEMkE9sdo9i3RouucSlcfnWb06B0iwkag&s=1692601414&e=43200&f=20854241&srv=21&asn=7713&sp=2500
-#EXTINF:1, EPS 9
-https://be7713.rcr82.waw05.cdn112.com/hls2/01/04205/oz03k5xc4ndv_x/index-v1-a1.m3u8?t=_AEcFAtGHDhUvIr9btsENpm9qxWjEXQVNpiVhSQa25g&s=1692601544&e=43200&f=21027257&srv=20&asn=7713&sp=2500
-#EXTINF:1, EPS 10
-https://be4242.rcr52.ams03.cdn112.com/hls2/01/04212/brcgwz660yhe_x/index-v1-a1.m3u8?t=O7fD4_RaYNFvr6KzJubLHLgvsjpLX9HZjapItwx6mYg&s=1692601645&e=43200&f=21061087&srv=20&asn=7713&sp=2500
-#EXTINF:1, EPS 11a
-https://be2719.rcr22.ams01.cdn112.com/hls2/02/04243/uk7tvayv0nxj_x/index-v1-a1.m3u8?t=2Gs7ZicfDPoYrmFM7IFHeIBKgHNaEc_YhFJlYG5uvUw&s=1692656700&e=43200&f=21218643&srv=26&asn=7713&sp=2500
-#EXTINF:1, EPS 11b
-https://be2719.rcr22.ams01.cdn112.com/hls2/02/04243/uk7tvayv0nxj_,n,x,.urlset/master.m3u8?t=2Gs7ZicfDPoYrmFM7IFHeIBKgHNaEc_YhFJlYG5uvUw&s=1692656700&e=43200&f=21218643&srv=26&asn=7713&sp=2500
-#EXTINF:1, EPS 12
-https://be7713.rcr82.waw05.cdn112.com/hls2/01/04296/4xx5enewvlv9_,n,x,.urlset/master.m3u8?t=YVRoogF2VX-fuvtNfdS4SCjTiEoMGgherv-a_l8cprQ&s=1692675105&e=43200&f=21887599&srv=30&asn=7713&sp=2500
-#EXTINF:1, EPS 13
-https://be7713.rcr82.waw05.cdn112.com/hls2/03/04286/ed3b1ilzd76e_,n,x,.urlset/master.m3u8?t=LUxPqM1QwerTi02U5kxE1VDtXiUz0ahYZjLqvgC5Cz0&s=1692674123&e=43200&f=21433521&srv=30&asn=7713&sp=2500
-#EXTINF:1, EPS 14
-https://be4242.rcr52.ams03.cdn112.com/hls2/02/04290/y5lvtlskznp2_,n,x,.urlset/master.m3u8?t=NS4cESf-gCvu_WSmNKMmeNafQ9QvQR6ELmn2_IoHeAQ&s=1692674238&e=43200&f=21453054&srv=31&asn=7713&sp=2500
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693163979/ei/a03rZPaoBfWI1d8Pkqy--A4/ip/180.249.154.104/id/t7YFsmqTXrA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/spc/UWF9fw42M4rVGlcm69T6ycgy82bFEBzRbHci6Qc4cw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000022/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgPvDUT7nX0CJBpc7U-1DcNIRxzU-boylr0FKJjQEt4R8CIDp08sxppO1dENbfbaoCtdsMzlzBAEaN7cCGrikrpiNq/file/index.m3u8
