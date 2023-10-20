@@ -1,5 +1,4 @@
-#EXTINF:1, Mangkujiwo 2
-https://n22484d.streamvid.net/hls/,n5ajq7soybmne42h4vaajfbwqtnjfy7fhnegepdmzvxy5otsh2ctt3y6a53a,.urlset/master.m3u8
-
-#EXTINF:1, Equalizer 2 1080
-https://cdnx10ii.diebutx.com/ownhls/2020/773bc682524967842e82a91ab019ed8c/1080p/index.m3u8?nimblesessionid=71210983&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMyA5OjE4OjU3IFBNJmhhc2hfdmFsdWU9d2xkNUdTcko4cGIyV3lBY2dOVjEyZz09JnZhbGlkbWludXRlcz0yNDAmaWQ9MzI0NzllMzQ4N2ZiOTU5MmNlODc4ZDYxMTI3YzVjMTg=
+#EXTINF:1, Mangkujiwo 2 a
+https://n22484d.streamvid.net/hls/n5ajq7soybmne42h4vaajfbwqtnjfy7fhnegepdmzvxy5otsi4iwy3ts4uia/index-v1-a1.m3u8
+#EXTINF:1, Mangkujiwo 2 b
+https://n22484d.streamvid.net/hls/,n5ajq7soybmne42h4vaajfbwqtnjfy7fhnegepdmzvxy5otsi4iwy3ts4uia,.urlset/master.m3u8
