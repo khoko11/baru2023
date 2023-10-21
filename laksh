@@ -1,4 +1,5 @@
-#EXTINF:1, Mangkujiwo 2 a
-https://n22484d.streamvid.net/hls/n5ajq7soybmne42h4vaajfbwqtnjfy7fhnegepdmzvxy5otsi4iwy3ts4uia/index-v1-a1.m3u8
-#EXTINF:1, Mangkujiwo 2 b
-https://n22484d.streamvid.net/hls/,n5ajq7soybmne42h4vaajfbwqtnjfy7fhnegepdmzvxy5otsi4iwy3ts4uia,.urlset/master.m3u8
+#EXTINF:1, SAW X 
+https://n22484d.streamvid.net/hls/n5ajssrqybmne42h4vaqjcb426acbpmllnd7m3pzcstv2lxk35rrjrnbkw6q/index-v1-a1.m3u8
+
+#EXTINF:1, SAW X backup
+https://n22484d.streamvid.net/hls/n5ajssrqybmne42h4vaqjcb426acbpmllnd7m3pzc,jxv2lxk35rxgrdk3g7a,stv2lxk35rrjrnbkw6q,.urlset/master.m3u8
