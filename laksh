@@ -1,8 +1,8 @@
 #EXTINF:1, Yashoda 2022
 https://hls16-eu.zcdn.stream/8aecf467bad8eb247f138bce026cf541/2022-12-14/video.m3u8?auth=edc58386bb74192a91f85aab5b0d065f&expires=1706379184&type=edge&node=PkdFI1QBs74cJVpyA2zWt6Qf17hjTgiyNCdBylUl4OmFEBhGJdULQQRIcdVeZRjrKBxHTAb4oD3zawa3oqOPXAV7rNnGvoMCcB-BzPBHMcs|referer=https://streambucket.net/.m3u8
 
-#EXTINF:1, Kajiman
-https://hls34-eu.zcdn.stream/b11d512979b429781d306df7a783c2fa/2024-01-25/video.m3u8?auth=fd541cf02354cb38e03ff05503656f83&expires=1706380343&type=edge&node=_5psbpNOJpib6AU9KGT-avBg1cerjR-DDYpt4qnIv640KHxM5IRaxmsW6ds2HlYtzzK13rOdpKnI_G_STQIV8vb81w203p3thR7j1YhfD-A|referer=https://bestx.stream/.m3u8
+#EXTINF:1, tvg-logo="https://image.tmdb.org/t/p/w300/vEDH2MHtStOSjXd4SA96zMH6KMj.jpg",Kajiman
+https://hls34-eu.zcdn.stream/b11d512979b429781d306df7a783c2fa/2024-01-25/video.m3u8?auth=b4dfa81df789e8bdb163e35e752ef219&expires=1706430525&type=edge&node=8XExCSOyWHme2jVOVh3yahC6BU5KErtxaH4f-EcFhHRN5IFpbBXKcQhg43UHvs3OGyzOHVzyc6tRmtEVGac9WIldzW6rtDp9hIFb8E7Gij4|referer=https://bestx.stream/.m3u8
 
 #EXTINF:1, tvg-logo="https://image.tmdb.org/t/p/w300/qJiWKzdRScI5OcRQqOu3qdMZKXY.jpg",Aquaman
 #EXTGRP:Aquaman 2023
