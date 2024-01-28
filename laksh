@@ -4,9 +4,9 @@ https://hls16-eu.zcdn.stream/8aecf467bad8eb247f138bce026cf541/2022-12-14/video.m
 #EXTINF:1, Kajiman
 https://hls34-eu.zcdn.stream/b11d512979b429781d306df7a783c2fa/2024-01-25/video.m3u8?auth=fd541cf02354cb38e03ff05503656f83&expires=1706380343&type=edge&node=_5psbpNOJpib6AU9KGT-avBg1cerjR-DDYpt4qnIv640KHxM5IRaxmsW6ds2HlYtzzK13rOdpKnI_G_STQIV8vb81w203p3thR7j1YhfD-A|referer=https://bestx.stream/.m3u8
 
-#EXTINF:1, Aquaman
-https://yot.gnicirp.com/_v10/322d900ed55c9393d5605315fdc388153b62987e7d25716f17dbc1174bb70f6d2d1e4174e4bb67a9a4d002fb4567ba939a4c38ef9c8f0408f6f20ffac8a332f7911f9d54ddaa89daf930ce7f3ef8567a9c6d3ffad780d9d8e0c08634add7d22b7c6e305d8a32173646c36ee8485b58c37cb12c403c268e8267ae0728f05bffc79e504ffa67f24437eb8fa87badad9862/playlist.m3u8
-
 #EXTINF:1, tvg-logo="https://image.tmdb.org/t/p/w300/qJiWKzdRScI5OcRQqOu3qdMZKXY.jpg",Aquaman
 #EXTGRP:Aquaman 2023
 https://yot.gnicirp.com/_v10/322d900ed55c9393d5605315fdc388153b62987e7d25716f17dbc1174bb70f6d2d1e4174e4bb67a9a4d002fb4567ba939a4c38ef9c8f0408f6f20ffac8a332f7911f9d54ddaa89daf930ce7f3ef8567a9c6d3ffad780d9d8e0c08634add7d22b7c6e305d8a32173646c36ee8485b58c37cb12c403c268e8267ae0728f05bffc79e504ffa67f24437eb8fa87badad9862/playlist.m3u8
+
+#EXTINF:1, tvg-logo="https://image.tmdb.org/t/p/w300/tRD18JW9iKqmwkQKvzPYDQetRoI.jpg",Heroico
+https://hls37-eu.zcdn.stream/b6851cb58e3a58a8a58b9eb5d674e516/2024-01-23/video.m3u8?auth=fc1dadbb43aad6fc86c7859ed91826eb&expires=1706429660&type=edge&node=KEVlGfeDkPGWXrQaH4IcM0mnrR_VFGCMKM0mYiafDP6ydrmyeXGkSRcK3djdJlE3l5JaeFsXejvnIIlPKI2Ap_7DRLsgBQnVkeeoZypjap8|referer=https://bestx.stream/.m3u8
