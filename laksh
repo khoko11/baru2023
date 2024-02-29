@@ -7,5 +7,5 @@ https://ovosss.lol/live/n-4/chunks.m3u8
 #EXTINF:1, tvg-logo="https://image.tmdb.org/t/p/w300/8uHden41KAjpyLQZKaAgFZsnEXk.jpg",tumbal terakhir
 https://hls37-eu.zcdn.stream/d1d2879ca22a04428a256bca9339b172/2024-02-18/video.m3u8?auth=01cb63d15f4d75ca016883900d5b1d75&expires=1708809096&type=edge&node=UJ6qQHFDpbFgTXRQ6DM-k6QAIa2kaaNAHL7o15NAkV8WJ3Ec9RAr3eoPJYUj7Yzc0962WjdtQt6eUtZ9biV8mZfEpD3xAXKK-Xp7FOzvdg3tTCAxdHxynOQHV6-KW59s|referer=https://bestx.stream/
 
-#EXTINF:1, laligaop
-https://hls.streambtw.com/live/stream_6.m3u8
+#EXTINF:1, pubg
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709227900/ei/HGvgZbjUD8Dg4-EPrOKI6AQ/ip/180.249.152.122/id/iLdZK3uNVUU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/spc/UWF9f_F2PxTMnxUoFS6LafuaaNiDt0b0gSogQhSaSAcVHm4laA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgQvLmAUN4At0aiGveZ3GWWqaCqIN-zmT6pMbP2cTOv6YCIAxTFKbit_3wfotMvTxMKe0K7OUZKweyUBcr0VlrkfGt/file/index.m3u8
