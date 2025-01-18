@@ -7,7 +7,7 @@ https://401qnf6va7.sw-cdnstreamwish.com/hls2/01/03772/1jr5tdntepsz_x/master.m3u8
 #EXTINF:1, tvg-logo="https://image.tmdb.org/t/p/w300/8uHden41KAjpyLQZKaAgFZsnEXk.jpg",TNT1
 https://vipgoodlive-tvs.starcdn.live/TNT_Sports_1/tracks-v1a1/mono.m3u8?ref=https%3A%2F%2Fbeesport.net%2F&tokenkey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcGNsaWVudCI6IjUuMTgyLjIwOS4xMTIiLCJ1cmxzdHJlYW0iOiJodHRwczovL2xpdmVfdHYuc3RhcmNkbnVwLmNvbS9UTlRfU3BvcnRzXzEvaW5kZXgubTN1OCIsIndlYnNpdGUiOiJodHRwczovL2JlZXNwb3J0Lm5ldC9hdXRob3JpemUtY2hhbm5lbCIsImlzVklQIjoiMCIsImV4cCI6MTcxNDg3NzMxM30.xga7JpxQj1fPyMMmayFtr--MbBw3eP2UBN4YQjJ8UL0|referer=https://beesport.starcdnup.com/&user-agent=Android/&origin=https://beesport.starcdnup.com
 
-#EXTINF:1, tvg-logo="https://image.tmdb.org/t/p/w300/8uHden41KAjpyLQZKaAgFZsnEXk.jpg",TVRI PABAR
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TVRI_PAPUA_BARAT.svg",TVRI PABAR
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 
 #EXTINF:1, tt3
