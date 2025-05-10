@@ -28,22 +28,42 @@ https://seraphinapl.com/stream/xx23JJ027-iWU7o5ceBD-w/hjkrhuihghfvu/1746917968/2
 https://movearnpre.com/stream/PgZB3lHfORz26NG42kqR7w/hjkrhuihghfvu/1746919912/25197389/index-v1-a1.m3u8
 
 
-
+==== MOTO GP =====
 #EXTINF:1, FS2
+#EXTGRP: MOTO GP
 https://zekonew.newkso.ru/zeko/premium758/mono.m3u8|ref&origin=https://cookiewebplay.xyz
 #EXTINF:1, TNT 2
 https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8|ref&origin=https://cookiewebplay.xyz
 
-
 #EXTINF:1, Sky sport italy
+#EXTGRP: MOTO GP
 https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8|ref&origin=https://cookiewebplay.xyz
 
 #EXTINF:1, Canal+ motoGP
+#EXTGRP: MOTO GP
 https://zekonew.newkso.ru/zeko/premium271/mono.m3u8|ref&origin=https://cookiewebplay.xyz
 
 #EXTINF:1, Dazn 1 ES
+#EXTGRP: MOTO GP
 https://windnew.newkso.ru/wind/premium445/mono.m3u8|ref&origin=https://cookiewebplay.xyz
 
 
 #EXTINF:1, THUNDERBOLTS
 https://movearnpre.com/stream/Xs3n91hJ8DdSqAzqfGiYOw/hjkrhuihghfvu/1746927966/25219965/index-f1-v1-a1.m3u8
+
+====PREMIER LEAGUE====
+#EXTINF:1, USA NETWORK
+#EXTGRP: PREMIER LEAGUE
+https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8|ref&origin=https://cookiewebplay.xyz
+
+#EXTINF:1, Optus sport
+#EXTGRP: PREMIER LEAGUE
+https://nfsnew.newkso.ru/nfs/premium25/mono.m3u8|ref&origin=https://cookiewebplay.xyz
+
+#EXTINF:1, Sky sport calcio IT
+#EXTGRP: PREMIER LEAGUE
+https://windnew.newkso.ru/wind/premium870/mono.m3u8|ref&origin=https://cookiewebplay.xyz
+
+#EXTINF:1, Nova sport PL greece
+#EXTGRP: PREMIER LEAGUE
+https://windnew.newkso.ru/wind/premium599/mono.m3u8|ref&origin=https://cookiewebplay.xyz
