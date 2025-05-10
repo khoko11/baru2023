@@ -78,8 +78,18 @@ https://nfsnew.newkso.ru/nfs/premium9/mono.m3u8|ref&origin=https://cookiewebplay
 #EXTGRP: LA LIGA
 https://nfsnew.newkso.ru/nfs/premium3/mono.m3u8|ref&origin=https://cookiewebplay.xyz
 
-
 #EXTINF:1, Dazn laliga
 #EXTGRP: LA LIGA
 https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8|ref&origin=https://cookiewebplay.xyz
 
+#EXTINF:1, La Liga Tv UK
+#EXTGRP: LA LIGA
+https://windnew.newkso.ru/wind/premium276/mono.m3u8|ref&origin=https://cookiewebplay.xyz
+
+#EXTINF:1, Dazn Eleven 1 portugal
+#EXTGRP: LA LIGA
+https://ddy6new.newkso.ru/ddy6/premium455/mono.m3u8|ref&origin=https://cookiewebplay.xyz
+
+#EXTINF:1, Dazn 1 DE
+#EXTGRP: LA LIGA
+https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8|ref&origin=https://cookiewebplay.xyz
