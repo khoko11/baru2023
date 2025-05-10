@@ -10,12 +10,6 @@ https://vipgoodlive-tvs.starcdn.live/TNT_Sports_1/tracks-v1a1/mono.m3u8?ref=http
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TVRI_PAPUA_BARAT.svg",TVRI PABAR
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 
-#EXTINF:1, tt3
-https://fee.zplayerhd.xyz:8443/xpogo/hls/m1CDi9mZ-tNyvwRQvduOyw/1715388058/bbtsp3.m3u8|referer=https://player003.xyz/&user-agent=Android/&origin=https://player003.xyz
-
-#EXTINF:1, ttnt2
-https://hno.zplayerhd.xyz:8034/pogo/hls/f6zyAZaIbS0EejDz_k2i0g/1715390504/bbtsp2.m3u8|referer=https://player003.xyz/
-
 #EXTINF:1, pubgyt
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716046644/ei/1HZIZsCWIf6t0-kPk_qigAM/ip/180.248.202.174/id/nZUaYEH7sPA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVbZCipuniFVx67QKTWnHoFybrssE-3OmMFJnpoaRbB0CIQCW9e7Kfdb-iBHlmODRNUnNgr6Y4n-rMIpUA9AaJ_5BHA%3D%3D/file/index.m3u8
 
@@ -46,3 +40,6 @@ https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8|ref&origin=https://cookiewebpl
 
 #EXTINF:1, Canal+ motoGP
 https://zekonew.newkso.ru/zeko/premium271/mono.m3u8|ref&origin=https://cookiewebplay.xyz
+
+#EXTINF:1, Dazn 1 ES
+https://windnew.newkso.ru/wind/premium445/mono.m3u8|ref&origin=https://cookiewebplay.xyz
