@@ -67,3 +67,7 @@ https://windnew.newkso.ru/wind/premium870/mono.m3u8|ref&origin=https://cookieweb
 #EXTINF:1, Nova sport PL greece
 #EXTGRP: PREMIER LEAGUE
 https://windnew.newkso.ru/wind/premium599/mono.m3u8|ref&origin=https://cookiewebplay.xyz
+
+#EXTINF:1, Sky sport PL DE
+#EXTGRP: PREMIER LEAGUE
+https://nfsnew.newkso.ru/nfs/premium9/mono.m3u8|ref&origin=https://cookiewebplay.xyz
