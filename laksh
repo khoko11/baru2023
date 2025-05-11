@@ -72,6 +72,12 @@ https://windnew.newkso.ru/wind/premium599/mono.m3u8|ref&origin=https://cookieweb
 #EXTGRP: PREMIER LEAGUE
 https://nfsnew.newkso.ru/nfs/premium9/mono.m3u8|ref&origin=https://cookiewebplay.xyz
 
+#EXTINF:1, Hub Premier
+#EXTGRP: PREMIER LEAGUE
+https://ddy6new.newkso.ru/ddy6/premium166/mono.m3u8|ref&origin=https://cookiewebplay.xyz
+
+
+
 === La liga ===
 
 #EXTINF:1, Dazn laliga 2
@@ -93,6 +99,12 @@ https://ddy6new.newkso.ru/ddy6/premium455/mono.m3u8|ref&origin=https://cookieweb
 #EXTINF:1, Dazn 1 DE
 #EXTGRP: LA LIGA
 https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8|ref&origin=https://cookiewebplay.xyz
+
+#EXTINF:1, Viaplay sports 1 UK
+#EXTGRP: LA LIGA
+https://windnew.newkso.ru/wind/premium451/mono.m3u8|ref&origin=https://cookiewebplay.xyz
+
+
 
 ==== MMA ====
 
