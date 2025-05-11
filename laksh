@@ -146,6 +146,15 @@ https://windnew.newkso.ru/wind/premium84/mono.m3u8|ref&origin=https://cookiewebp
 #EXTGRP: LA LIGA
 https://zekonew.newkso.ru/zeko/premium116/mono.m3u8|ref&origin=https://cookiewebplay.xyz
 
+#EXTINF:1, Dazn Eleven 1 Portugal
+#EXTGRP: LA LIGA
+https://ddy6new.newkso.ru/ddy6/premium455/mono.m3u8|ref&origin=https://cookiewebplay.xyz
+
+#EXTINF:1, TSN 3
+#EXTGRP: LA LIGA
+https://zekonew.newkso.ru/zeko/premium113/mono.m3u8|ref&origin=https://cookiewebplay.xyz
+
+
 ==== MMA ====
 
 #EXTINF:1, RMC sport France
