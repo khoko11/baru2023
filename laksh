@@ -100,7 +100,13 @@ https://zekonew.newkso.ru/zeko/premium125/mono.m3u8|ref&origin=https://cookieweb
 #EXTGRP: PREMIER LEAGUE
 https://zekonew.newkso.ru/zeko/premium123/mono.m3u8|ref&origin=https://cookiewebplay.xyz
 
+#EXTINF:1, Sky sport Main Event UK
+#EXTGRP: PREMIER LEAGUE
+https://zekonew.newkso.ru/zeko/premium38/mono.m3u8|ref&origin=https://cookiewebplay.xyz
 
+#EXTINF:1, Sky sport PL UK
+#EXTGRP: PREMIER LEAGUE
+https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8|ref&origin=https://cookiewebplay.xyz
 
 === La liga ===
 
