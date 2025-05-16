@@ -180,6 +180,6 @@ https://ddy6new.newkso.ru/ddy6/premium108/mono.m3u8|ref&origin=https://cookieweb
 #EXTGRP: SPORT+
 https://zekonew.newkso.ru/zeko/premium425/mono.m3u8|ref&origin=https://cookiewebplay.xyz
 
-EXTINF:1, Sport Soccer Plus
+#EXTINF:1, Sport Soccer Plus
 #EXTGRP: SPORT+
 https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8|ref&origin=https://cookiewebplay.xyz
