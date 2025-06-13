@@ -11,8 +11,11 @@ https://dhcplay.com/stream/9fK0DzNoPSIlDfT2gaGz8Q/kjhhiuahiuhgihdf/1749322120/52
 https://movearnpre.com/stream/8Y9bqjix9WSlTEv9e9xx5Q/hjkrhuihghfvu/1749322102/26337927/index-v1-a1.m3u8
 
 
-#EXTINF:1, PUBG 289
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1749755157/ei/tdBKaMKxNbiZvcAP75PLiA0/ip/180.249.154.95/id/aFZ3iIhk0h0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/bui/AY1jyLNT9wuc2WfpLD1YNW_pw-RlLoBDSoLKIaBmn0HTAOFFuQJdraK2sX4CHo0DsCxtdjiinYWlacq2/spc/l3OVKc_BZS23roxB-3DOiGPfRArFbHOKLdxjxKxkrS9_dlN8vsAoOBH7ykqfRC2MOGZ3liEnq9uh0Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIp9zI1rVxVYlz6NNyU30CR2_b1Jfu_zdHqlbKJmGvUPAiAWukcYHkUgmi3JBfuEYohqH-zWN0A-0r2LGnAMeWkPzw%3D%3D/file/index.m3u8
+#EXTINF:1, PUBG tt
+https://pull-hls-l11-sg01.tiktokcdn.com/game/stream-7515355102825270037.m3u8?expire=1751024407\\u0026sign=08fb20772b8c6b85ed5157334e334200\
+
+#EXTINF:1, PUBG tt hd60
+https://pull-hls-l11-sg01.tiktokcdn.com/game/stream-7515355102825270037_hd60.m3u8?expire=1751024407\\u0026sign=d49ddff46cefc0b12d7a53f8c19a9333\
 
 #EXTINF:1, Sinners 1
 #EXTGRP: SABTU
