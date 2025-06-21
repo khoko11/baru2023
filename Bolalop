@@ -1,18 +1,6 @@
 #EXTINF:1, STREAMEX 11
 https://live.bestiptvprovider.click/ch2/tracks-v1a1/mono.m3u8?md5=fT1OgbfMRdSADVUh88MDqQ&expires=1750519660
 
-#EXTINF:1, STREAMEX 22
-https://live.bestiptvprovider.click/ch2/tracks-v1a1/mono.m3u8?md5=fT1OgbfMRdSADVUh88MDqQ&expires=1750519660|referer=https://cdn.snapinstadownload.xyz
-
-#EXTINF:1, STREAMEX 33
-https://live.bestiptvprovider.click/ch2/tracks-v1a1/mono.m3u8?md5=fT1OgbfMRdSADVUh88MDqQ&expires=1750519660|referer=|https://cdn.snapinstadownload.xyz/
-
-#EXTINF:1, SPORTSLINEGP
-https://bsnq32dywemv8zcfut4pr9.cdnutter.net:8443/hls/6jr6f01p2.m3u8?s=Ga7CZfWE8rIx6EmUU_nYXg&e=1750507307|referer=https://admitsettle.net
-
-#EXTINF:1, SPORTSLINEGP222
-https://bsnq32dywemv8zcfut4pr9.cdnutter.net:8443/hls/6jr6f01p2.m3u8?s=Ga7CZfWE8rIx6EmUU_nYXg&e=1750507307|referer=https://admitsettle.net/
-
 
 #EXTINF:1, GP
 https://bsnq32dywemv8zcfut4pr9.cdnutter.net:8443/hls/6jr6f01p2.m3u8?s=a-RqCKLE2mGH8gl3eLa_Eg&e=1750531010|referer=https://admitsettle.net
@@ -25,4 +13,8 @@ https://anvtcax.fubohd.com/espn2/mono.m3u8?token=5b8dd8fd13e57e79b37e1464286f6c8
 #EXTINF:1, tvsu
 https://rm8zcvk3.fubohd.com/sportv/mono.m3u8?token=9d162857a4add4b36e9fbfdc0644cf1f1ec9f6de-2d-1750563039-1750545039
 
+#EXTINF:1, AJSPORT.CH
+https://rr.buytommy.top/secure/WUWuxTWabj/alpha/stream/fluminense-vs-ulsan-hyundai/1/playlist.m3u8|referer=https://embedstreams.top
 
+#EXTINF:1, AJSPORT.CH /
+https://rr.buytommy.top/secure/WUWuxTWabj/alpha/stream/fluminense-vs-ulsan-hyundai/1/playlist.m3u8|referer=https://embedstreams.top/
