@@ -1,10 +1,6 @@
-#EXTM3U
-#EXTINF:1, BAKkASURA RESTAURANT LK21 TURBOVIP
-https://cdn154.foudsea.com/data/B/83/691786077c8ac/691786077c8ac720.m3u8
-#EXTVLCOPT:http-referrer=https://turbovidhls.com/
-
-#EXTINF:1, BAKASURA LK21 TURBO VIP PAKE REFERER
-https://cdn154.foudsea.com/data/B/83/691786077c8ac/691786077c8ac720.m3u8|referer=https://turbovidhls.com/
-
-#EXTINF:1, BAKkASURA RESTAURANT LK21 cast
-https://be7713.rcr82.waw05.i8yz83pn.com/hls2/02/10243/v1f3rjzii5td_x/index-v1-a1.m3u8?t=NOgzxHUTN5JkkgmTNqX60kF2bp0U2ZEJ6Uzfo3JdFuI&s=1763171230&e=10800&f=51218556&srv=1050&asn=7713&sp=5500&p=0
+#EXTINF: 1, keluarga super irit garsasi film
+https://gf21.rpmstream.live/hls/UAKq7t5kvU0UOLCUbBWl2Q/x68/lod399eh/ocumto/tt/index-f2-v1-a1.m3u8?v=1758651105
+#EXTINF: 1, One Battle After Another ngefilm 
+https://playerngefilm21.rpmlive.online/hls/nngkezVurDIV7CwqtJnJ2g/kdv/6spri16a/srfxxg/tt/index-f2-v1-a1.m3u8?v=1758651105
+#EXTINF: 1, Narik Sukmo ngefilm
+https://playerngefilm21.rpmlive.online/hls/_Bsz6Gk4YNUsNf7_3ZTabg/q3o/3awmtjtv/c1inur/tt/index-f2-v1-a1.m3u8?v=1758651105
