@@ -1,24 +1,4 @@
-#EXTINF:1, waktu mghrib 2 ngefilm server 3
-https://uasopt.com/stream/JfXeR7WNYFEQ4talk0iz7Q/kjhhiuahiuhgihdf/1762798935/61868173/index-v1-a1.m3u8
-
-#EXTINF:1, waktu mghrib 2 ngefilm server 4
-https://dinisglows.com/stream/H0VutTpEF9_pBzRvHahHmA/hjkrhuihghfvu/1762799083/32740016/index-v1-a1.m3u8
-
-#EXTINF:1, waktu mghrib 2 garasi stream
-
-https://gf21.p2pstream.vip/hls/aftewHR12vl2xnt8TlbFbw/onm/nc31jl1f/8wnhlk/tt/index-f1-v1-a1.m3u8?v=1758651105
-
-#EXTINF:1, waktu mghrib 2 garasi restream
-https://gf21.rpmstream.live/hls/aftewHR12vl2xnt8TlbFbw/onm/nc31jl1f/8wnhlk/tt/index-f1-v1-a1.m3u8?v=1758651105
-
-#EXTINF: 1, valiant one vhide 720
-https://ryderjet.com/stream/4Nnaps-Kp3P3R20wuHddOw/hjkrhuihghfvu/1762812121/19408527/index-f2-v1-a1.m3u8
-
-#EXTINF: 1, valiant one vhide 480
-https://ryderjet.com/stream/4Nnaps-Kp3P3R20wuHddOw/hjkrhuihghfvu/1762812121/19408527/index-f1-v1-a1.m3u8
-
-#EXTINF: 1, valiant one server 1 ngefilm
-https://playerngefilm21.rpmlive.online/hls/w6nwYA2EkPNRwgsCVIOyRA/rw/85vbcgx1/hdlgnt/tt/index-f2-v1-a1.m3u8?v=1758651105
-
-#EXTINF: 1, valiant one server 3 ngefilm
-https://cavanhabg.com/stream/K_seDwpBMw-aQaMApEjn-Q/kjhhiuahiuhgihdf/1762814288/62443845/index-v1-a1.m3u8
+#EXTM3U8
+#EXTINF:1, BAKASURA RESTAURANT LK21 TURBOVIP
+https://cdn154.foudsea.com/data/B/83/691786077c8ac/691786077c8ac720.m3u8
+#EXTVLCOPT:http-referrer=https://turbovidhls.com/
