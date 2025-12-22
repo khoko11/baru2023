@@ -1,6 +1,4 @@
 #EXTINF: 1, TVRI PB
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
-#EXTINF:1, SISU
-https://haxloppd.com/stream/ueJUoK7QxBv-x8fEXEPSmw/kjhhiuahiuhgihdf/1766016651/66342617/index-v1-a1.m3u8
-#EXTINF:1, SISU 2
-https://c2.turbosplayer.com/file/a9b0713d-6dbe-4918-b221-790479813630/master.m3u8
+#EXTINF:1, AVATAR
+https://c8.turbosplayer.com/file/bc704ec7-4651-4b49-81a5-dac52369d2e1/master.m3u8
