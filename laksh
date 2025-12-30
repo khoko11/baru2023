@@ -1,6 +1,4 @@
 #EXTINF: 1, TVRI PB
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
-#EXTINF:1, vritta
-https://cdn3.turboviplay.com/data5/694cebc034c76/694cebc034c76.m3u8
-#EXTINF:1, VRITTA Master
-https://c19.turbosplayer.com/file/576b09b4-b511-4876-a3a4-66385cade6d1/master.m3u8
+#EXTINF:1, pubg
+https://pull-flv-l11-sg01.tiktokcdn.com/game/stream-2136200205972799592_sd.flv?_session_id=074-2025123021281270B0A7A5A36D7917678E.1767101294838&_webnoredir=1&expire=1768310892&sign=51152f6bc2dc511210c06aa4af1bff97
