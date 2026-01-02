@@ -1,15 +1,5 @@
 #EXTINF: 1, TVRI PB
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
-#EXTINF:1, pubglele yt
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767304476/ei/vJhWacn_D_DljuMPzJS0yAk/ip/180.249.152.57/id/kJSsgeuMP2U.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3BBQ5Kwb6lGof9iIGuM9uqhTs458nqOwcFhAVv6tCKgg-cLAtqa6jNGNsB2fcpO7uiU-ozCwyM_/spc/wH4Qq92r6vysngiTbmSh8LX0bTggn_4mKHCnYLgzBMFrPefdnFiEbWEn_ouZeMZbHFcLZA/vprv/1/go/1/ns/04N-2Sc3PHY0s3m0q7K7g0gR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51552689%2C51565116%2C51565682%2C51580968%2C51626154/dover/11/n/ULU7bSD-G5UvHvgqs7/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgOuMxNw7ULEvTw_GUyCkyspUHF_Xk2i8XPJ0QTqVLMJICIQCXcLSqW1hcKw3hJDUyukhCGM4UsuUnw-8Nd6T6uYzCDw%3D%3D/file/index.m3u8
-
-https://pull-flv-l11-sg01.tiktokcdn.com/game/stream-2136200205972799592_sd.flv?_session_id=074-2025123021281270B0A7A5A36D7917678E.1767101294838&_webnoredir=1&expire=1768310892&sign=51152f6bc2dc511210c06aa4af1bff97
-
-#EXTINF:1, COBOY
-https://pull-f5-sg01.tiktokcdn.com/game/stream-7589635460981345031.flv?_session_id=074-2025123022203616B589DFE5ED92DC761D.1767104515612&_webnoredir=1&abr_pts=-2800&expire=1768314037&sign=15459b66875120dc4042efa8d4d8a9c0
-#EXTINF:1, JOSDKY
-https://pull-flv-l1-sg01.tiktokcdn.com/game/stream-7589635787667344149.flv?_session_id=074-20251230224120470B3BB6BDF50918BA40.1767105681719&_webnoredir=1&abr_pts=-2800&expire=1768315281&sign=2f66604074acda008d74a55f5b00c7fa
-
 
 
 #EXTINF:1, Nimma Vasthugalige Neeve Javaabdaararu MASTER
@@ -17,3 +7,9 @@ https://g252.turbosplayer.com/file/152a6209-c4f6-4fe3-9aa6-95ebb2c84af8/master.m
 
 #EXTINF:1, Nimma Vasthugalige Neeve Javaabdaararu
 https://cdn1.turboviplay.com/data3/68e7915710e25/68e7915710e25.m3u8
+
+#EXTINF:1, ANACONDA MASTER
+https://cdn1.turboviplay.com/data5/6956970496b38/6956970496b38.m3u8
+
+#EXTINF:1, ANACONDA 720
+https://c8.turbosplayer.com/file/01597cf2-6ab1-458b-9020-6e657114e212/master.m3u8
