@@ -1,15 +1,8 @@
 #EXTINF: 1, TVRI PB
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 
+#EXTINF:1, PAMALI MASTER
+https://cavanhabg.com/stream/sBpLyjpa9MSIu1l-Inj5SA/kjhhiuahiuhgihdf/1767539332/66763388/master.m3u8
 
-#EXTINF:1, Nimma Vasthugalige Neeve Javaabdaararu MASTER
-https://g252.turbosplayer.com/file/152a6209-c4f6-4fe3-9aa6-95ebb2c84af8/master.m3u8
-
-#EXTINF:1, Nimma Vasthugalige Neeve Javaabdaararu
-https://cdn1.turboviplay.com/data3/68e7915710e25/68e7915710e25.m3u8
-
-#EXTINF:1, ANACONDA MASTER
-https://cdn1.turboviplay.com/data5/6956970496b38/6956970496b38.m3u8
-
-#EXTINF:1, ANACONDA 720
-https://c8.turbosplayer.com/file/01597cf2-6ab1-458b-9020-6e657114e212/master.m3u8
+#EXTINF:1, PAMALI
+https://cavanhabg.com/stream/sBpLyjpa9MSIu1l-Inj5SA/kjhhiuahiuhgihdf/1767539332/66763388/index-v1-a1.m3u8
