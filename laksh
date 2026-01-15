@@ -1,8 +1,15 @@
 #EXTINF: 1, TVRI PB
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 
-#EXTINF:1, PAMALI MASTER
-https://cavanhabg.com/stream/sBpLyjpa9MSIu1l-Inj5SA/kjhhiuahiuhgihdf/1767539332/66763388/master.m3u8
+#EXTINF:1, 120 BAHADUR (MASTER)
+https://g260.turbosplayer.com/file/a39b259b-b393-4b3e-a759-692a0020fac6/master.m3u8
 
-#EXTINF:1, PAMALI
-https://cavanhabg.com/stream/sBpLyjpa9MSIu1l-Inj5SA/kjhhiuahiuhgihdf/1767539332/66763388/index-v1-a1.m3u8
+
+#EXTINF:1, 120 BAHADUR
+https://cdn2.turboviplay.com/data3/695eb9c04fd87/695eb9c04fd87.m3u8
+
+#EXTINF:1, DE DE PYAAR DE 2 (MASTER)
+https://c16.turbosplayer.com/file/d94dbe24-797c-4621-966e-e6a38e65902a/master.m3u8
+
+#EXTINF:1, DE DE PYAAR DE 2
+https://cdn2.turboviplay.com/data5/69653a6bbd59c/69653a6bbd59c.m3u8
